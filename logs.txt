@@ -1,0 +1,36 @@
+commit 7c58d80e5a7bd1a8a1fa1caa58f6585c052e5ce9
+Author: Kolevski99 <kolevskiandrej.20@gmail.com>
+Date:   Sat Apr 8 21:39:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 5f217a2d1ce70304e8b378d9889d07bbfac9f549
+Merge: 00dedf4 cd86620
+Author: Kolevski99 <kolevskiandrej.20@gmail.com>
+Date:   Sat Apr 8 21:44:50 2023 +0200
+
+    Merge branch 'bug2'
+
+commit cd866206110135c3d45689c679324b6e2e724dd0
+Author: Kolevski99 <kolevskiandrej.20@gmail.com>
+Date:   Sat Apr 8 21:35:53 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 00dedf45337614c88aebeac2eb66f313e550075d
+Author: Kolevski99 <kolevskiandrej.20@gmail.com>
+Date:   Sat Apr 8 21:31:39 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 94ba13397ca75f87f5d5ea0d4586399548b0cd66
+Author: Kolevski99 <kolevskiandrej.20@gmail.com>
+Date:   Sat Apr 8 21:13:53 2023 +0200
+
+    Add java class
+
+commit 355f4c559f1f1db8d2729003f840c3abed3d46b3
+Author: Kolevski99 <kolevskiandrej.20@gmail.com>
+Date:   Sat Apr 8 20:26:35 2023 +0200
+
+    Initial commit
