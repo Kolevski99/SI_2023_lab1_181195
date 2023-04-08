@@ -1,5 +1,3 @@
-My documentation
-
 4. C:\Users\kolev>cd LabsSoftversko
 
 C:\Users\kolev\LabsSoftversko>mkdir SI_2023_lab1_181195
@@ -176,4 +174,27 @@ C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>git push --force origin bug3
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/Kolevski99/SI_2023_lab1_181195.git
  + 45766d4...7c58d80 bug3 -> bug3 (forced update)
-27. 
+27. C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>git log > logs.txt
+C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>git add logs.txt
+warning: LF will be replaced by CRLF in logs.txt.
+The file will have its original line endings in your working directory
+C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>git commit -m "Add git logs to logs.txt"
+[master be6f98b] Add git logs to logs.txt
+ 1 file changed, 36 insertions(+)
+ create mode 100644 logs.txt
+C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>echo "My documentation" > 181195.txt
+C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>git add 181195.txt
+C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>git commit -m "Add 181195.txt"
+[master 9ae5f2a] Add 181195.txt
+ 1 file changed, 179 insertions(+)
+ create mode 100644 181195.txt
+28. C:\Users\kolev\LabsSoftversko\SI_2023_lab1_181195>git push origin master
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 2.23 KiB | 2.23 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Kolevski99/SI_2023_lab1_181195.git
+   7c58d80..9ae5f2a  master -> master
